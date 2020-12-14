@@ -161,9 +161,10 @@ input{
 }
 
 .texto{
-    font-weight: 600;
+    font-weight: 500;
     color: #b8b8bb;
    margin-left: 8px;
+   font-size: medium;
 }
 
 .precio{
