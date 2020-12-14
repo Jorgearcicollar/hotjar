@@ -255,6 +255,14 @@ input{
             letter-spacing: normal;
             font-size:medium;
         }
+    
+
+    .texto{
+        font-weight: 600;
+        color: #b8b8bb;
+       margin-left: 8px;
+        
+    }
         }
 
 
